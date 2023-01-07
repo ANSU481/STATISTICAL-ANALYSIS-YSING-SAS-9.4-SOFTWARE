@@ -34,8 +34,9 @@ H1:  There is a significant difference in the mean level of serum lipid peroxide
  
  
  
- # CHART[A   STATISTICAL  ANALYSIS  USING SAS.docx](https://github.com/ANSU481/STATISTICAL-ANALYSIS-YSING-SAS-9.4-SOFTWARE/files/10337917/A.STATISTICAL.ANALYSIS.USING.SAS.docx)
-[A   STATISTICAL  ANALYSIS  USING SAS.docx](https://github.com/ANSU481/STATISTICAL-ANALYSIS-YSING-SAS-9.4-SOFTWARE/files/10337924/A.STATISTICAL.ANALYSIS.USING.SAS.docx)
+ #chart[statistical analysis using sas 9.4.docx](https://github.com/ANSU481/STATISTICAL-ANALYSIS-YSING-SAS-9.4-SOFTWARE/files/10366596/statistical.analysis.using.sas.9.4.docx)
+[statistical analysis using sas 9.4.docx](https://github.com/ANSU481/STATISTICAL-ANALYSIS-YSING-SAS-9.4-SOFTWARE/files/10366595/statistical.analysis.using.sas.9.4.docx)
+
 
  
  
@@ -65,8 +66,7 @@ H1:  There is a significant difference in the mean level of serum lipid peroxide
   PROC TTEST DATA=WORK.IMPORT;
   VAR SLPLEVEL;
   CLASS GROUP;
-  TITLE"INDEPENDENT TWO SAMPLE T TEST "[A   STATISTICAL  ANALYSIS  USING SAS.docx](https://github.com/ANSU481/STATISTICAL-ANALYSIS-YSING-SAS-9.4-SOFTWARE/files/10337935/A.STATISTICAL.ANALYSIS.USING.SAS.docx)
-
+  TITLE"INDEPENDENT TWO SAMPLE T TEST "
   RUN;
   
   

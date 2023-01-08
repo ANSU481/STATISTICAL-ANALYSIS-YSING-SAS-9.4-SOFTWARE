@@ -8,7 +8,6 @@ This repository is about the statistical analysis that is done in SASsoftware to
 # STATISTICAL ANALYSIS
 
 Statistical Analysis is done by using SAS 9.4 Software, To test the statistical significance in the serum ipid peroxide between the two groups.Independent t test is used for the analysis to compare the mean of serum lipid peroxide level after analysing the normality of the data.
-*representation of data is done by using pie chart and histogram.
 *descriptive statistics ofthe data is also calculated.
 *normality of the data is also checked.
 H0:  There is no significant difference in the mean level of serum lipid peroxide between the treatment and control group.

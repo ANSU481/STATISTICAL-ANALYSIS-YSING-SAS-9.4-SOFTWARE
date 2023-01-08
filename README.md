@@ -19,7 +19,7 @@ H1:  There is a significant difference in the mean level of serum lipid peroxide
  
  # result
  
- The pvalue of pooled variance is greater than 0.05 so we failed to reject the null hypothesis at 95% confidence that is thereis no significant difference in the mean level of serum lipid peroxide between the treatment and control group.
+ Folded  p value is greater than 0.05 ,that is data follows equal variance  and Therefore... in the t-test table above  choose the  pooled variance, and report p value = 0.2745 .since p>0.05  so we failed to reject the null hypothesis at 95% confidence . That is there is no significant difference in the mean level of serum lipid peroxide between the two groups. The serum lipid peroxide in two groups are equal.
  
  # PROGRAM
  
